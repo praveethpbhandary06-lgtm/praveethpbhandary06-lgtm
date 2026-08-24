@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there im Praveeth P Bhandary👋
 
 <!--
 **praveethpbhandary06-lgtm/praveethpbhandary06-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
